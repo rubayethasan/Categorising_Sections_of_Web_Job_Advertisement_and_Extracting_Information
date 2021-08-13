@@ -1,0 +1,1 @@
+screen -U -dmS extract-info bash -c 'venv/bin/python clean_expired_jobs.py; exec bash'
