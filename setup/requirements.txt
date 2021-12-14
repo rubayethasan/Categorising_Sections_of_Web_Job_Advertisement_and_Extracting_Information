@@ -22,5 +22,5 @@ html5lib==1.0.1
 currencyconverter==0.16
 Scrapy==2.4.1
 pandas==1.2.2
-lxml==4.4.1
+lxml==4.6.5
 pause==0.3
